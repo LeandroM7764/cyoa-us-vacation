@@ -6,3 +6,5 @@ Geysers and wildlife encounters. Will nature amaze you unexpectedly?
 * **[Train Journey](destination4.md)** Slower but allows you to soak in more of the scenery.
 
 * **[Road Trip by Car](destination4.md)** Long drive with lots of surprises along the way.
+
+[Go Back](start.md)

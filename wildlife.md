@@ -5,3 +5,5 @@
 2. [Participate in a wolf howling event.](congratulations.md)
 
 3. [Go fishing in Yellowstone River.](congratulations.md)
+
+[Go Back](destination4.md)

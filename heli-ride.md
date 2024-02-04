@@ -5,3 +5,5 @@
 2. [Explore ruins as another alternative.](congratulations.md)
 
 3. [Embark on a Colorado River boat ride.](congratulations.md)
+
+[Go Back](destination3.md)

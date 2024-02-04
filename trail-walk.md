@@ -5,3 +5,5 @@
 2. [Enjoy a guided horseback ride.](congratulations.md)
 
 3. [Take a stroll, near hot water pools.](congratulations.md)
+
+[Go Back](destination4.md)

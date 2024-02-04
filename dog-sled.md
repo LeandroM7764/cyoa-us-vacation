@@ -5,3 +5,5 @@
 2. [Engage in ice fishing while being mindful of ice.](congratulations.md)
 
 3. [Learn wilderness survival skills.](congratulations.md)
+
+[Go Back](destination5.md)

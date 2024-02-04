@@ -6,3 +6,4 @@
 
 3. [Take part in an exhilarating volcano hike.](congratulations.md)
 
+[Go Back](destination1.md)

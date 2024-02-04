@@ -5,3 +5,5 @@
 2. [Join a guided hike, on the glacier for an enjoyable experience.](congratulations.md)
 
 3. [Take a trip to a fishing village.](congratulations.md)
+
+[Go Back](destination5.md)

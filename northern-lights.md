@@ -5,3 +5,5 @@
 2. [Visit an Arctic Wildlife Zoo for a secure encounter, with fauna.](congratulations.md)
 
 3. [Take an Alaskan Bush Plane Tour for views.](congratulations.md)
+
+[Go Back](destination5.md)
